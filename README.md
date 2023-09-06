@@ -8,6 +8,5 @@ Dummy repository for the `github-agent` to use during demonstrations.
 > [all branches](https://github.com/break-free/github-agent-demo/branches) to
 > view them all.
 
-For further details, see the `github-agent` repository at:
-
-- https://github.com/break-free/github-agent
+Movie Quote:
+"Here's looking at you, kid." - Casablanca
